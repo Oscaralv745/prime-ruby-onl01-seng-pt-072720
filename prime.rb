@@ -1,4 +1,5 @@
 # Add  code here!
-def prime?(array)
-  range = (1..20) 
+def prime?(number)
+  
+   
 end
